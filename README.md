@@ -139,52 +139,11 @@ Core functionality including:
 - Theme switching
 - Export functionality
 
-## Keyboard Shortcuts
-
-- **Enter**: Send message
-- **Escape**: Cancel image selection
-
-## Browser Compatibility
-
-- ✅ Chrome 90+
-- ✅ Firefox 88+
-- ✅ Safari 14+
-- ✅ Edge 90+
-
-## Troubleshooting
-
-**Issue**: API calls fail with 401 error
-- **Solution**: Check if API key is valid and has proper permissions
-
-**Issue**: Images not uploading
-- **Solution**: Ensure images are in supported formats (PNG, JPG, GIF, WebP)
-
-**Issue**: Chat history not persisting
-- **Solution**: Check if browser allows localStorage; some private browsing modes disable this
-
-**Issue**: Slow responses
-- **Solution**: Check internet connection; large images may take longer to process
-
-## Future Enhancements
-
-- [ ] Voice input/output support
-- [ ] Multiple chat sessions/conversations
-- [ ] Custom system prompts
-- [ ] Message editing and deletion
-- [ ] Markdown rendering in responses
-- [ ] Code syntax highlighting
-- [ ] Conversation search functionality
 
 ## License
 
 This project is open source and available for personal and commercial use.
 
-## Support
-
-For issues or questions:
-1. Check the troubleshooting section
-2. Review console errors (F12 > Console)
-3. Verify API key configuration
 
 ## Contributing
 
