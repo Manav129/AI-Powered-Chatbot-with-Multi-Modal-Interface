@@ -3,7 +3,8 @@
 A sleek and modern web-based chatbot application powered by Google's Gemini API. Chat with an intelligent AI assistant with support for text and image inputs.
 
 
-Vercel-ai-powered-chatbot-o7813mmvh-manavs-projects-f7069ffe.vercel.app
+Vercel:   ai-powered-chatbot-theta.vercel.app
+
 
 ## Features
 
